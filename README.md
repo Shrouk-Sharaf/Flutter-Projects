@@ -41,3 +41,20 @@
 - **Dart** – Clean and fast programming language optimized for UI
 - **Material Design** – Ensures smooth animations and interactions
 
+
+# 🧘 Application 4 – Mindfulness App
+
+**Mindfulness App** is a Flutter-based wellness journey app that walks users through mindfulness practices, yoga beginnings, and digital detox prompts. With its pastel color scheme and smooth transitions, the app encourages users to unwind and stay focused on their mental well-being.
+
+## 🌿 Features
+
+- 💬 Guided screens: Practice Mindfulness, Start with Yoga, Unplug Your Life
+- ✨ Calming UI with soft colors and modern layout
+- 📱 Interactive navigation with progress indicators and buttons
+- 🏠 Home screen with profile-style layout and stylized UI components
+
+## 🛠 All Applications Are Built With
+
+- **Flutter** – UI toolkit for building beautiful natively compiled applications
+- **Dart** – Modern and expressive programming language
+- **Material Design** – Clean and responsive layout across Android and iOS
