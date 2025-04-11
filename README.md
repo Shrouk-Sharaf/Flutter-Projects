@@ -9,35 +9,6 @@
 - 📱 Bottom navigation bar with Home, Search, and Profile
 - 🔄 Responsive layout using GridView
 
-## 🛠 Built With
-
-- **Flutter** – Cross-platform UI toolkit
-- **Dart** – Optimized language for app development
-- **Material Components** – Consistent design across Android & iOS
-
-## 🚀 Getting Started
-
-To run this app locally, follow these steps:
-
-### Prerequisites
-
-- Flutter SDK installed – [Get Flutter](https://flutter.dev/docs/get-started/install)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/application-1.git
-
-# Move into the project directory
-cd application-1
-
-# Install dependencies
-flutter pub get
-
-# Launch the app
-flutter run
-
 
 # 💪 Application 2 – ZenFit
 
@@ -56,23 +27,3 @@ flutter run
 - **Dart** – Clean and fast programming language optimized for UI
 - **Material Design** – Ensures smooth animations and interactions
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-You need to have Flutter installed. Follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/application-2.git
-
-# Navigate into the project directory
-cd application-2
-
-# Get dependencies
-flutter pub get
-
-# Run the app
-flutter run
