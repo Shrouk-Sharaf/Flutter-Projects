@@ -35,13 +35,6 @@
 - 🎯 Bottom navigation bar with Home, Calendar, Search, and Profile
 
 
-## 🛠 Built With
-
-- **Flutter** – For high-performance cross-platform mobile development
-- **Dart** – Clean and fast programming language optimized for UI
-- **Material Design** – Ensures smooth animations and interactions
-
-
 # 🧘 Application 4 – Mindfulness App
 
 **Mindfulness App** is a Flutter-based wellness journey app that walks users through mindfulness practices, yoga beginnings, and digital detox prompts. With its pastel color scheme and smooth transitions, the app encourages users to unwind and stay focused on their mental well-being.
