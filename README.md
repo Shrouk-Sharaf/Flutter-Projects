@@ -21,6 +21,20 @@
 - 👤 User experience flow to identify fitness expertise level
 - 🔄 Navigation between screens using Flutter's `Navigator`
 
+
+# ❄️ Application 3 – Winter Vacation Trips App
+
+**Winter Vacation Trips App** is a visually stunning Flutter app that showcases winter travel destinations. With rich imagery, intuitive navigation, and engaging content, it offers users a premium experience for exploring and booking seasonal getaways like skiing adventures and mountain sightseeing.
+
+## 🌟 Features
+
+- 🏞️ Welcome screen with scenic imagery and call-to-action
+- 📍 Discover page with popular, featured, and recommended destinations
+- 🏔️ Detailed Mount Fuji screen with ratings, pricing, and descriptions
+- 🔄 Smooth navigation between pages using Flutter's `Navigator`
+- 🎯 Bottom navigation bar with Home, Calendar, Search, and Profile
+
+
 ## 🛠 Built With
 
 - **Flutter** – For high-performance cross-platform mobile development
