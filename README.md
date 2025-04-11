@@ -1,16 +1,39 @@
-# flutter180
+# 📱 Application 1
 
-A new Flutter project.
+**Application 1** is a modern Flutter mobile app built for streamlined real estate interactions. It offers a clean and intuitive UI for users to navigate through essential property-related categories like buying, selling, trades, and more.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📦 Category cards: Buying, Selling, Trades, Videos, Deals, Case Studies
+- 🎨 Sleek Material Design UI
+- 📱 Bottom navigation bar with Home, Search, and Profile
+- 🔄 Responsive layout using GridView
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – Cross-platform UI toolkit
+- **Dart** – Optimized language for app development
+- **Material Components** – Consistent design across Android & iOS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+To run this app locally, follow these steps:
+
+### Prerequisites
+
+- Flutter SDK installed – [Get Flutter](https://flutter.dev/docs/get-started/install)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/application-1.git
+
+# Move into the project directory
+cd application-1
+
+# Install dependencies
+flutter pub get
+
+# Launch the app
+flutter run
