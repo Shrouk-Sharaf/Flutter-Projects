@@ -36,6 +36,17 @@ A calm, multi-screen guided experience into mindfulness, yoga, and digital detox
 - ⏩ Navigation with Skip/Next indicators
 - 🏠 Final home layout with user-like feed
 
+### 5. 🏀 BasketBall Scoring App
+A simple and clean app for tracking points of two teams in a basketball game.
+
+- 🔢 Add 1, 2, or 3 points per team
+
+- ↩️ Undo last action
+
+- 🔄 Reset scores
+
+- 🟡 Amber UI with bold counters
+
 ---
 
 ## 🔧 Project Setup
