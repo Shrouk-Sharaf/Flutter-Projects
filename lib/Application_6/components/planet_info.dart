@@ -69,11 +69,8 @@ class PlanetInfo extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(height: 40),
-                  Image.asset(
-                    planet.imagePath,
-                    width: planet.name == 'Uranus' ? 100 : null, // Specific size for Uranus
-                    height: planet.name == 'Uranus' ? 100 : null,
-                  ),
+
+                  Image.asset(planet.imagePath),
 
                   const SizedBox(height: 40),
                   Padding(
